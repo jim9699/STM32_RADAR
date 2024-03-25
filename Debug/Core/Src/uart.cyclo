@@ -1,0 +1,6 @@
+../Core/Src/uart.c:23:6:inituart	1
+../Core/Src/uart.c:31:6:HAL_UART_RxCpltCallback	1
+../Core/Src/uart.c:39:9:getChar	2
+../Core/Src/uart.c:48:5:_write	1
+../Core/Src/uart.c:56:6:transmitpacket	3
+../Core/Src/uart.c:74:12:receivepacket	7
